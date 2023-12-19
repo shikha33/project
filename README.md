@@ -1,2 +1,2 @@
 # project
-this is my first git reposetory 
+this is my first git repository 
